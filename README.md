@@ -1,8 +1,13 @@
-## Hi, I'm Abdisamad Maalin 👋
+## Hi there, I'm Abdisamad Maalin 👋  
 
-I am passionate about IT infrastructure and cloud engineering. I enjoy configuring networking devices, deploying web applications, and automating system administration tasks. My goal is to become a skilled cloud engineer specializing in scalable and secure systems.
+Welcome to my GitHub profile! I’m pursuing a career in **cybersecurity**, and I’ve enjoyed exploring IT systems through hands-on projects that have broadened my technical skills and understanding.  
 
-- 🌱 Currently learning: Cyeber security practices and cloud computing.
-- I'm Intrested in pursing Cyber securtiy 
-- 💻 Technologies: Python, Cisco, Ubuntu, LAMP stack, and AWS.
-- 📫 How to reach me: Abdimaalin3333@gmail.com
+### My Journey:  
+Working on system-level projects in my coursework has been exciting. I’ve deployed applications, automated tasks, and configured systems to improve functionality and security. These experiences sparked my interest in protecting and optimizing IT infrastructure.  
+
+### Key Projects:  
+- 🚀 **PHP CRUD App**: Built and deployed a three-tier web application using a LAMP stack, incorporating database design and server configuration.  
+- 🛠 **User Management Automation**: Developed a Python script to automate user creation on Ubuntu, showcasing scripting and system admin skills.  
+- ⚙️ **Puppet Manifests**: Created configuration-as-code manifests to standardize server setups, reflecting practical automation and DevOps principles.  
+
+I’m excited to keep growing and learning in the field of cybersecurity and IT systems. Feel free to explore my repositories and reach out!  
